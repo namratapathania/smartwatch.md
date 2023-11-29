@@ -58,3 +58,24 @@ OR
 ![left right](https://github.com/namratapathania/smartwatch.md/assets/152050814/82a314eb-c429-4812-a494-dbf11b710acd)
    * Slide right to left side to get into the next page.
    * To return to the last page slide from the left to the right side.
+### Personalisation ###
+1. **Clock Display**
+![image](https://github.com/namratapathania/smartwatch.md/assets/152050814/08b984c3-467f-4032-9f49-92d352fa924d)
+* **Display Set up:**
+  * Method 1
+    * Tap your watch.
+    * Press for 2-3 seconds in the middle of the screen.
+    * 1 of 3 clocks display option is displayed.
+    * Select any one of your choice.
+  * Method 2
+    * Go to the main menu by sliding to top.
+    * Click on settings > Clock > Display.
+    * Modify the clock display of your choice.
+  1. **Theme Setting**
+![image](https://github.com/namratapathania/smartwatch.md/assets/152050814/08b984c3-467f-4032-9f49-92d352fa924d)
+  * Method 
+    * Go to the main menu by sliding to top.
+    * Click on settings > Theme.
+    * Select the theme display of your choice.
+
+
