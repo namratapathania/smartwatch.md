@@ -100,13 +100,45 @@ Function  | Description
 ### Notice ###
 ___AO2 has features such as , ultra-long battery life, full-screen touch control, low latency, and workout modes. It supports heart rate monitoring and stress detection throughout the day, blood oxygen detection and sleep monitoring, etc. For operating instructions and FAQs on these features, please turn on the app and go to "User Guide" section.___
 ## Important ##
-1. Charge : Fully charge the watch before use, the charge time is ± 1-2 hours.
-2. Accessories : Use the accessories provided in the box. Do not use 3rd party equipment as it can damage your device.
-3. Bluetooth : Ensure you have strong Bluetooth connectivity. The smartwatch gets disconnect when it exceeds the distance.
-4. Bluetooth Connectivity : If your Bluetooth connection disconnects for no reason, please go to your Bluetooth settings, forget/delete the existing connection.
-5. Audio Player : While streaming music the song names are not always visible or correct. It is because every Android smartphone works differently.
+1. **Charge** : Fully charge the watch before use, the charge time is ± 1-2 hours.
+2. **Accessories** : Use the accessories provided in the box. Do not use 3rd party equipment as it can damage your device.
+3. **Bluetooth** : Ensure you have strong Bluetooth connectivity. The smartwatch gets disconnect when it exceeds the distance.
+4. **Connectivity** : If your Bluetooth connection disconnects for no reason, please go to your Bluetooth settings, forget/delete the existing connection.
+5. **Audio Player** : While streaming music the song names are not always visible or correct. It is because every Android smartphone works differently.
 ### Warning ###
 ___Do not shut down the Bluetooth notification service! If closed it can affect the synchronization between your smartphone and the smart watch! You can see wrong time, no notifications or receive/make any calls, etc.___
+## Safety instructions ##
+* Do not place the product and its accessories at extreme temperatures, otherwise it may cause hazards such as product failure, fire or explosion.
+* Protect the product from strong impacts or jolts, so as not to damage the product and its accessories, thus avoiding product failures.
+* Do not disassemble or modify the product and its accessories by yourself. Contact us for after-sales service when the product fails.
+### Warning ###
+___This product is not waterproof. Not suitable for use while diving, swimming in the sea, or in a sauna.___
+## Troubleshooting FAQs ##
+**Refer below key functions for any problems with the watch. If the problem persist, contact the technical department at the toll free number 800 XXX XXX.**
+
+* **Unable to power on / start.**
+  * Press the power button for a minimum of 3 seconds.
+  * Please check if the battery is empty, if so please charge for ± 2 hours.
+* **Shut down automatically.**
+  * Please check if the battery is empty, if so please charge for ± 2 hours.
+* **Battery get drained faster.**
+  * Please make sure you charge the phone 100 percent.
+  * Weak phone signal can cause the drain, as the watch will continuously scan for signal.
+* **Unable to charge.**
+  * Please check if the USB cable is in a good condition.
+  * If not please change the USB cable or visit the service center.
+  * Remember that the battery life will be reduced after a few years of usage, please check if the battery works properly.
+* **No name on messages/calls.**
+  * While pairing the Bluetooth connection, you did not confirm to synchronize the contacts.
+  * Please forget/delete the existing Bluetooth setup and reconfigure using the steps as shown in page no 3 .
+* **Poor call voice quality.**
+  * Please check if the battery is empty, if so please charge for ± 2 hours.
+* **Battery get drained faster.**
+  * Check Smartwatch and smartphone are separated or too far from each other.
+  * Weak phone signal can be a cause, as the watch will continuously scan for signal.
+### Warning ###
+___This product is not waterproof. Not suitable for use while diving, swimming in the sea, or in a sauna.___
+
 
 
 
