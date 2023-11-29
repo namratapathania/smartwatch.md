@@ -78,3 +78,10 @@ OR
     * Go to the main menu by sliding to top.
     * Click on settings > Theme.
     * Select the theme display of your choice.
+## Functions and Features ##
+**Once the connection between smartwatch and phone is established. Following features will be visible.**
+Function  | Description
+--------- | -------------
+Message  | Receive notifications and read all your phone messages.
+Call history  | Check phone call records including: missed calls, dialed calls & received calls. Also check the date, time and phone number of the calls.
+
