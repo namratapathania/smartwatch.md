@@ -59,8 +59,8 @@ OR
    * Slide right to left side to get into the next page.
    * To return to the last page slide from the left to the right side.
 
-### Personalisation ###
-1. **Clock Display**
+## Personalisation ##
+1. #### Clock Display ####
 ![image](https://github.com/namratapathania/smartwatch.md/assets/152050814/08b984c3-467f-4032-9f49-92d352fa924d)
 * **Display Set up:**
   * Method 1
