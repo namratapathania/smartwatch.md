@@ -30,3 +30,15 @@ ___Charge the watch to activate it before first use. The original power adapter 
 
 ## Download and Installation ##
 ![2](https://github.com/namratapathania/smartwatch.md/assets/152050814/7f20db85-9303-4154-8b4b-3580db20986e)
+**Download**
+* Download the "SMARTY" application in your mobile from the Google Play.
+OR 
+* Scan the QR code on your left through your mobile scanner.
+**Install**
+* After the download, follow to install the "SMARTY" application in your mobile. 
+**Pairing**
+* Click on Bluetooth to start pairing.
+* Swipe left from the home screen
+* Scan the QR code on the device
+* Click Pair on the application.
+  
