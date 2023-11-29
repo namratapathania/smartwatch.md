@@ -46,4 +46,13 @@ OR
 * Turn on Bluetooth.
 * Search for a new device as “BT Dialer”. Press Connect
 * Both devices need to accept the incoming Bluetooth request. Press Confirm, to share your contacts.
-  
+## Touch Screen Function ##
+1. **Touch Screen**
+   * Tap the phone to get in active mode
+![Smartwatch-Getting-Started](https://github.com/namratapathania/smartwatch.md/assets/152050814/f03e939f-c3ac-44d9-87df-6a907ab5ff64)
+2. **Swipe Top or Bottom**
+   * To enter the notice board slide from top to bottom.
+   * To return to the main menu slide from bottom to the top.
+3. **Swipe Left or Right**
+   * Slide right to left side to get into the next page.
+   * To return to the last page slide from the left to the right side.
