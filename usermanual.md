@@ -39,7 +39,11 @@ OR
 * After the download, follow to install the "SMARTY" application in your mobile.
 ### Pairing ###
 * Click on Bluetooth to start pairing.
-* Swipe left from the home screen
-* Scan the QR code on the device
+* Swipe left from the home screen.
+* Scan the QR code on the device.
 * Click Pair on the application.
+### Phone setting ###
+* Turn on Bluetooth.
+* Search for a new device as “BT Dialer”. Press Connect
+* Both devices need to accept the incoming Bluetooth request. Press Confirm, to share your contacts.
   
