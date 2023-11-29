@@ -50,11 +50,11 @@ OR
 1. **Touch Screen**
 ![Smartwatch-Getting-Started](https://github.com/namratapathania/smartwatch.md/assets/152050814/f03e939f-c3ac-44d9-87df-6a907ab5ff64)
    * Tap the phone to get in active mode.
-3. **Swipe Top or Bottom**
+3. **Swipe Top or Bottom** :point_up_2: :point_down:
 ![top bottom](https://github.com/namratapathania/smartwatch.md/assets/152050814/e63bd8f7-ac51-4ddb-b2a5-adb4d52b2228)
    * To enter the notice board slide from top to bottom.
    * To return to the main menu slide from bottom to the top.
-5. **Swipe Left or Right**
+5. **Swipe Left or Right** :point_left: :point_right:
 ![left right](https://github.com/namratapathania/smartwatch.md/assets/152050814/82a314eb-c429-4812-a494-dbf11b710acd)
    * Slide right to left side to get into the next page.
    * To return to the last page slide from the left to the right side.
