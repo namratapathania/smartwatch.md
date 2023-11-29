@@ -25,4 +25,4 @@ Thank you for purchasing the Smarty Android Smart Watch Model AO2. Please read t
    * For data transfer
 7. **Speaker**
 ### Notice ###
-__Charge the watch to activate it before first use. The original power adapter must be used for charging.__
+___Charge the watch to activate it before first use. The original power adapter must be used for charging.___
