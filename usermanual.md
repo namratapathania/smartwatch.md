@@ -111,7 +111,7 @@ ___Do not shut down the Bluetooth notification service! If closed it can affect 
 * Do not place the product and its accessories at extreme temperatures, otherwise it may cause hazards such as product failure, fire or explosion.
 * Protect the product from strong impacts or jolts, so as not to damage the product and its accessories, thus avoiding product failures.
 * Do not disassemble or modify the product and its accessories by yourself. Contact us for after-sales service when the product fails.
-### Warning ###
+### :warning: Warning ###
 ___This product is not waterproof. Not suitable for use while diving, swimming in the sea, or in a sauna.___
 ## Troubleshooting FAQs ##
 **Refer below key functions for any problems with the watch. If the problem persist, contact the technical department at the toll free number 800 XXX XXX.**
