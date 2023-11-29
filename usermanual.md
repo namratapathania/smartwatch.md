@@ -82,14 +82,14 @@ OR
 **Once the connection between smartwatch and phone is established. Following features will be visible.**
 Function  | Description
 --------- | -------------
-**Message**  | Receive notifications and read all your phone messages.
-**Call history**  | Check phone call records including: missed calls, dialed calls & received calls. Also check the date, time and phone number of the calls.
-**Heart rate**  | Monitor and keep a track of your heart rate and view the regular data anytime. 
-**Activities**  | It has 8 activity modes: walking, cycling, gym workout, treadmill, yoga, mountain climbing, jogging, and integrated training.
-**Sleep monitor**  | To keep a track on your sleep, this features counts the quality sleep based on your sleeping time.
-**Weather forecast**  | Check the weather real-time temperatures and forecast for the next 3 days
-**Alarm**  | Use as an alarm clock for reminder. Set, adjust, and delete alarms.
-**Stopwatch**  | Use for time events.
+**Message** 	:envelope: | Receive notifications and read all your phone messages.
+**Call history** :telephone_receiver: | Check phone call records including: missed calls, dialed calls & received calls. Also check the date, time and phone number of the calls.
+**Heart rate** :heartpulse: | Monitor and keep a track of your heart rate and view the regular data anytime. 
+**Activities** :running: | It has 8 activity modes: walking, cycling, gym workout, treadmill, yoga, mountain climbing, jogging, and integrated training.
+**Sleep monitor** :sleeping: | To keep a track on your sleep, this features counts the quality sleep based on your sleeping time.
+**Weather forecast** :partly_sunny: | Check the weather real-time temperatures and forecast for the next 3 days
+**Alarm** :alarm_clock: | Use as an alarm clock for reminder. Set, adjust, and delete alarms.
+**Stopwatch** :stopwatch: | Use for time events.
 
 ## Care and maintenance ##
 1. Keep the product clean.
