@@ -137,7 +137,7 @@ ___This product is not waterproof. Not suitable for use while diving, swimming i
   * Check Smartwatch and smartphone are separated or too far from each other.
   * Weak phone signal can be a cause, as the watch will continuously scan for signal.
 
-
+### For more information you contact the technical department at toll free number 800 XXX XXX. ###
 
 
 
