@@ -136,8 +136,7 @@ ___This product is not waterproof. Not suitable for use while diving, swimming i
 * **Battery get drained faster.**
   * Check Smartwatch and smartphone are separated or too far from each other.
   * Weak phone signal can be a cause, as the watch will continuously scan for signal.
-### Warning ###
-___This product is not waterproof. Not suitable for use while diving, swimming in the sea, or in a sauna.___
+
 
 
 
