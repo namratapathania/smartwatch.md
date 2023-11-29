@@ -73,7 +73,7 @@ OR
     * Click on settings > Clock > Display.
     * Modify the clock display of your choice.
 2. ### Theme Setting ###
-![image](https://github.com/namratapathania/smartwatch.md/assets/152050814/08b984c3-467f-4032-9f49-92d352fa924d)
+![image (2)](https://github.com/namratapathania/smartwatch.md/assets/152050814/fc1513ec-c85b-4555-95d7-173e946789f5)
   * Method 
     * Go to the main menu by sliding to top.
     * Click on settings > Theme.
