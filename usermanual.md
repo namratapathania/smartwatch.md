@@ -84,4 +84,14 @@ Function  | Description
 --------- | -------------
 Message  | Receive notifications and read all your phone messages.
 Call history  | Check phone call records including: missed calls, dialed calls & received calls. Also check the date, time and phone number of the calls.
-
+Heart Rate  | Monitor and keep a track of your heart rate and view the regular data anytime. 
+Activities  | It has 8 activity modes: walking, cycling, gym workout, treadmill, yoga, mountain climbing, jogging, and integrated training.
+Sleep monitor  | To keep a track on your sleep, this features counts the quality sleep based on your sleeping time.
+Weather Forecast  | Check the weather real-time temperatures and forecast for the next 3 days
+Alarm  | Use as an alarm clock for reminder. Set, adjust, and delete alarms.
+Stopwatch  | Use for time events.
+Breath Training  | Helps you control your breathing for relaxation.
+Audio player  | Play music through Bluetooth from your smartphone to your smart watch.
+Sedentary Reminder  | Reminds you to get up and move about if you stay seated too long.
+Video player  | You can view the video through bluetooth connectivity.
+Sound recorder  | You can record the calls and any voice as you like.
