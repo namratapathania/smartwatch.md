@@ -92,9 +92,21 @@ Function  | Description
 **Stopwatch**  | Use for time events.
 
 ## Care and maintenance ##
-
 1. Keep the product clean.
 2. Keep the product dry.
 3. Do not wear the product too tight.
 4. Do not use household cleansers when cleaning the product. Use micro-fibre cloth clean the screen.
 5. For stubborn stains, it is recommended to rub the area with alcohol cleaning swab and dry with clean cloth.
+### Notice ###
+___AO2 has features such as , ultra-long battery life, full-screen touch control, low latency, and workout modes. It supports heart rate monitoring and stress detection throughout the day, blood oxygen detection and sleep monitoring, etc. For operating instructions and FAQs on these features, please turn on the app and go to "User Guide" section.___
+## Important ##
+1. Charge : Fully charge the watch before use, the charge time is ± 1-2 hours.
+2. Accessories : Use the accessories provided in the box. Do not use 3rd party equipment as it can damage your device.
+3. Bluetooth : Ensure you have strong Bluetooth connectivity. The smartwatch gets disconnect when it exceeds the distance.
+4. Bluetooth Connectivity : If your Bluetooth connection disconnects for no reason, please go to your Bluetooth settings, forget/delete the existing connection.
+5. Audio Player : While streaming music the song names are not always visible or correct. It is because every Android smartphone works differently.
+### Warning ###
+___Do not shut down the Bluetooth notification service! If closed it can affect the synchronization between your smartphone and the smart watch! You can see wrong time, no notifications or receive/make any calls, etc.___
+
+
+
